@@ -11,8 +11,7 @@ In a further development you will be able to:
     * get recommendation for buying and selling stocks with in your portfolio
     * get recommendation for stocks on your watchlist
 ---
-### Instruction for running the code
+### Instruction for running the app
 Aliases:
     * runApp: python3 -m flask run
         * use this command to run the app
-        
