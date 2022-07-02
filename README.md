@@ -1,5 +1,4 @@
 # Stockbroker
----
 Stockbroker will be an all in one portfolio management webapp.
 You will be able to:
 - track your stock purchases
