@@ -1,0 +1,23 @@
+html * {
+    font-family: Helvetica !important;
+}
+
+.header {
+    background-color: #004225;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #D1B53B;
+}
+
+.no-margin {
+    margin: 0px;
+}
+
+.margin-5 {
+    margin: 5px;
+}
